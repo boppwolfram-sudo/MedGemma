@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test artifacts
+test_output.txt
+test_results.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Model weights (don't commit huge files)
+*.bin
+*.safetensors
+*.pt
+
+# Agent metadata
+.gemini/
+.agents/
