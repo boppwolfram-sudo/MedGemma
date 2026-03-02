@@ -191,6 +191,7 @@ Future work includes:
 - **Calibration Validation**: Platt scaling against epidemiological data for production-grade thresholds
 - **Clinician Feedback Loop**: HITL override mechanism for continuous model calibration
 - **Population Bias Auditing**: Demographic representativeness validation
+- **Model upgrade**: Switching google/medgemma-1.5-4b-it used for POC with 27b version for further increase in accuarcy.
 
 ---
 
